@@ -1,0 +1,15 @@
+/* .game {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-top: 20px;
+} */
+
+.game-info {
+  margin-left: 20px;
+}
+
+ol,
+ul {
+  padding-left: 30px;
+}
